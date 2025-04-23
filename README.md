@@ -4,14 +4,14 @@ This repository contains code to accompany Jacobson et al. (In Prep), A state-sp
 
 # Required packages
 
-brms \\
-dplyr \\
-ggplot2 \\
-lubridate \\
-magrittr \\
-optimx \\
-tidyr \\
-TMB \\
+brms  
+dplyr  
+ggplot2  
+lubridate  
+magrittr  
+optimx  
+tidyr  
+TMB  
 
 # Running the model
 
