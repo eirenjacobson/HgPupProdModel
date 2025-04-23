@@ -1,6 +1,6 @@
 # HgPupProdModel
 
-This repository contains code to accompany Jacobson et al. (In Prep), A state-space model for estimating pinniped pup production from serial counts at breeding colonies.  
+This repository contains code to accompany Jacobson et al. (In Prep): A state-space model for estimating pinniped pup production from serial counts at breeding colonies.  
 
 # Required packages
 
