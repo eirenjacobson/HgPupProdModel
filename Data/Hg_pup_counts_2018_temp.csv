@@ -1,0 +1,29 @@
+Year,Region,Colony,Easting,Northing,Colony Code,Name for PEST model,Survey# for Colony in y,No. surveys in year,Date,Method,TotalPups,Whitecoats,Moulteds,DeadPups,use,Used.or.not,Comments
+2018,North Sea,Craigleith,,,FoFcr,,1,of 4,02/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),21,21,0,0,1,used,deads included in whites
+2018,North Sea,Craigleith,,,FoFcr,,2,of 4,18/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),34,32,2,0,1,used,deads included in whites
+2018,North Sea,Craigleith,,,FoFcr,,3,of 4,01/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),24,17,7,0,1,used,deads included in whites
+2018,North Sea,Craigleith,,,FoFcr,,4,of 4,13/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),11,5,6,0,1,used,deads included in whites
+2018,North Sea,Craigleith,,,FoFcr,,5,of 4,04/01/2019,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),0,0,0,0,1,used,deads included in whites
+2018,North Sea,Fast Castle,,,FoFfc,,1,of 4,02/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),1317,1302,15,0,1,used,deads included in whites
+2018,North Sea,Fast Castle,,,FoFfc,,2,of 4,18/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),3375,2930,445,0,1,used,deads included in whites
+2018,North Sea,Fast Castle,,,FoFfc,,3,of 4,01/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),3106,1859,1247,0,1,used,deads included in whites
+2018,North Sea,Fast Castle,,,FoFfc,,4,of 4,14/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),1263,497,766,0,1,used,deads included in whites
+2018,North Sea,Fast Castle,,,FoFfc,,5,of 4,04/01/2019,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),111,62,49,0,1,used,deads included in whites
+2018,North Sea,Inchkeith,,,FoFik,,1,of 4,02/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),264,263,1,0,1,used,deads included in whites
+2018,North Sea,Inchkeith,,,FoFik,,2,of 4,18/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),590,510,80,0,1,used,deads included in whites
+2018,North Sea,Inchkeith,,,FoFik,,3,of 4,01/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),487,310,177,0,1,used,deads included in whites
+2018,North Sea,Inchkeith,,,FoFik,,4,of 4,13/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),227,111,116,0,1,used,deads included in whites
+2018,North Sea,Inchkeith,,,FoFik,,5,of 4,04/01/2019,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),18,14,4,0,1,used,deads included in whites
+2018,North Sea,Isle of May,,,FoFim,,1,of 4,02/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),851,830,21,0,1,used,deads included in whites
+2018,North Sea,Isle of May,,,FoFim,,2,of 4,18/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),1509,1074,435,0,1,used,deads included in whites
+2018,North Sea,Isle of May,,,FoFim,,3,of 4,01/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),1105,533,572,0,1,used,deads included in whites
+2018,North Sea,Isle of May,,,FoFim,,4,of 4,13/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),561,216,345,0,1,used,deads included in whites
+2018,North Sea,Isle of May,,,FoFim,,5,of 4,04/01/2019,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),82,60,22,0,1,used,deads included in whites
+2018,North Sea,Blakeney Point,,,SEEbp,,1,of 4,17/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),1104,1094,10,0,1,used,deads included in whites
+2018,North Sea,Blakeney Point,,,SEEbp,,2,of 4,30/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),3120,2919,201,0,1,used,deads included in whites
+2018,North Sea,Blakeney Point,,,SEEbp,,3,of 4,14/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),3795,2233,1562,0,1,used,deads included in whites
+2018,North Sea,Blakeney Point,,,SEEbp,,4,of 4,04/01/2019,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),1302,303,999,0,1,used,deads included in whites
+2018,North Sea,Horsey,,,SEEho,,1,of 4,17/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),299,295,4,0,1,used,deads included in whites
+2018,North Sea,Horsey,,,SEEho,,2,of 4,30/11/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),1317,1245,72,0,1,used,deads included in whites
+2018,North Sea,Horsey,,,SEEho,,3,of 4,14/12/2018,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),1866,1393,473,0,1,used,deads included in whites
+2018,North Sea,Horsey,,,SEEho,,4,of 4,04/01/2019,SMRU aerial; vertical photography (2x Hasselblad H4D-40 & 80mm),581,170,411,0,1,used,deads included in whites
